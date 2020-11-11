@@ -56,8 +56,8 @@ github.com/uber/jaeger-lib v1.3.1 h1:QaTh7g9oG56uB4I2MiwJbh/svRjHhZogAiQozBzxL3g
 github.com/uber/jaeger-lib v1.3.1/go.mod h1:ComeNDZlWwrWnDv8aPp0Ba6+uUTzImX/AauajbLI56U=
 github.com/uber/jaeger-lib v1.5.0 h1:OHbgr8l656Ub3Fw5k9SWnBfIEwvoHQ+W2y+Aa9D1Uyo=
 github.com/uber/jaeger-lib v1.5.0/go.mod h1:ComeNDZlWwrWnDv8aPp0Ba6+uUTzImX/AauajbLI56U=
-github.com/zalando/skipper v0.9.164 h1:f3KnwpwmN+y9kBg7hSudFUgow2Yj8oCX8FVZQ8Y2SaY=
-github.com/zalando/skipper v0.9.164/go.mod h1:R7LwOni1ktbT3GjQFb8NyejXiWcCrxAhDMe/YFe77x4=
+github.com/zalando/skipper v0.11.188
+github.com/zalando/skipper v0.11.188/go.mod
 go.uber.org/atomic v1.3.2 h1:2Oa65PReHzfn29GpvgsYwloV9AVFHPDk8tYxt2c2tr4=
 go.uber.org/atomic v1.3.2/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
 golang.org/x/net v0.0.0-20180826012351-8a410e7b638d h1:g9qWBGx4puODJTMVyoPrpoxPFgVGd+z1DZwjfRu4d0I=
