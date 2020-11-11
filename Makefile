@@ -27,7 +27,7 @@ test:
 $(PLUGINS): $(SOURCES)
 	mkdir -p build/
 	MODULE=$(shell basename $@ .so | sed -e 's/tracing_//' ); \
-		CGO_ENABLED=1 go build -buildmode=plugin -o $@ tracers/$$MODULE/$$MODULE.go
+		CGO_ENABLED=1 go build -trimpath -buildmode=plugin -o $@ tracers/$$MODULE/$$MODULE.go
 
 clean:
 	rm -rf build
