@@ -44,8 +44,8 @@ github.com/prometheus/client_model v0.0.0-20171117100541-99fa1f4be8e5 h1:cLL6Now
 github.com/prometheus/client_model v0.0.0-20171117100541-99fa1f4be8e5/go.mod h1:MbSGuTsp3dbXC40dX6PRTWyKYBIrTGTE9sqQNg2J8bo=
 github.com/prometheus/common v0.0.0-20171117163051-2e54d0b93cba h1:/MUKoJbk4oXV3uxkpfHVkmVfL+wzWW6dttaW26s07Gg=
 github.com/prometheus/common v0.0.0-20171117163051-2e54d0b93cba/go.mod h1:daVV7qP5qjZbuso7PdcryaAu0sAZbrN9i7WWcTMWvro=
-github.com/prometheus/procfs v0.0.0-20171017214025-a6e9df898b13 h1:iAstix1KspoLBRl8NoQH8wCdrkaLCdcHhF98EE5b3dY=
-github.com/prometheus/procfs v0.0.0-20171017214025-a6e9df898b13/go.mod h1:c3At6R/oaqEKCNdg8wHV1ftS6bRYblBhIjjI8uT2IGk=
+github.com/prometheus/procfs v0.0.0-20171017214025-a6e9df898b13
+github.com/prometheus/procfs v0.0.0-20171017214025-a6e9df898b13/go.mod
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/uber-go/atomic v1.3.2 h1:Azu9lPBWRNKzYXSIwRfgRuDuS0YKsK4NFhiQv98gkxo=
