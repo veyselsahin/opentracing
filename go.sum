@@ -1,4 +1,4 @@
-https://github.com/zalando/skipper.gitgithub.com/beorn7/perks v0.0.0-20160804104726-4c0e84591b9a h1:BtpsbiV638WQZwhA98cEZw2BsbnQJrbd0BI7tsy0W1c=
+github.com/beorn7/perks v0.0.0-20160804104726-4c0e84591b9a h1:BtpsbiV638WQZwhA98cEZw2BsbnQJrbd0BI7tsy0W1c=
 github.com/beorn7/perks v0.0.0-20160804104726-4c0e84591b9a/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/codahale/hdrhistogram v0.0.0-20160425231609-f8ad88b59a58 h1:hHWif/4GirK3P5uvCyyj941XSVIQDzuJhbEguCICdPE=
 github.com/codahale/hdrhistogram v0.0.0-20160425231609-f8ad88b59a58/go.mod h1:sE/e/2PUdi/liOCUjSTXgM1o87ZssimdTWN964YiIeI=
@@ -28,10 +28,10 @@ github.com/onsi/ginkgo v1.6.0 h1:Ix8l273rp3QzYgXSR+c8d1fTG7UPgYkOSELPhiY/YGw=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/gomega v1.4.1 h1:PZSj/UFNaVp3KxrzHOcS7oyuWA7LoOY/77yCTEFu21U=
 github.com/onsi/gomega v1.4.1/go.mod h1:C1qb7wdrVGGVU+Z6iS04AVkA3Q65CEZX59MT0QO5uiA=
-github.com/opentracing/basictracer-go
-github.com/opentracing/basictracer-go
-github.com/opentracing/opentracing-go
-github.com/opentracing/opentracing-go
+github.com/opentracing/basictracer-go v1.1.0
+github.com/opentracing/basictracer-go v1.1.0/go.mod
+github.com/opentracing/opentracing-go v1.2.0
+github.com/opentracing/opentracing-go v1.2.0/go.mod
 github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
@@ -44,8 +44,8 @@ github.com/prometheus/client_model v0.0.0-20171117100541-99fa1f4be8e5 h1:cLL6Now
 github.com/prometheus/client_model v0.0.0-20171117100541-99fa1f4be8e5/go.mod h1:MbSGuTsp3dbXC40dX6PRTWyKYBIrTGTE9sqQNg2J8bo=
 github.com/prometheus/common v0.0.0-20171117163051-2e54d0b93cba h1:/MUKoJbk4oXV3uxkpfHVkmVfL+wzWW6dttaW26s07Gg=
 github.com/prometheus/common v0.0.0-20171117163051-2e54d0b93cba/go.mod h1:daVV7qP5qjZbuso7PdcryaAu0sAZbrN9i7WWcTMWvro=
-github.com/prometheus/procfs v0.0.0-20171017214025-a6e9df898b13
-github.com/prometheus/procfs v0.0.0-20171017214025-a6e9df898b13/go.mod
+github.com/prometheus/procfs v0.0.0-20171017214025-a6e9df898b13 h1:iAstix1KspoLBRl8NoQH8wCdrkaLCdcHhF98EE5b3dY=
+github.com/prometheus/procfs v0.0.0-20171017214025-a6e9df898b13/go.mod h1:c3At6R/oaqEKCNdg8wHV1ftS6bRYblBhIjjI8uT2IGk=
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/uber-go/atomic v1.3.2 h1:Azu9lPBWRNKzYXSIwRfgRuDuS0YKsK4NFhiQv98gkxo=
