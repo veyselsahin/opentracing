@@ -1,4 +1,4 @@
-module github.com/skipper-plugins/opentracing
+module github.com/veyselsahin/opentracing
 
 require (
 	github.com/beorn7/perks v0.0.0-20160804104726-4c0e84591b9a // indirect
