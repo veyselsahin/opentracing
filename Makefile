@@ -26,9 +26,8 @@ test:
 
 $(PLUGINS): $(SOURCES)
 	mkdir -p build/
-	go clean -modcache ;\
 	MODULE=$(shell basename $@ .so | sed -e 's/tracing_//' ); \
-		GOOS=linux GOARCH=amd64 CGO_ENABLED=1 go build -buildmode=plugin -o $@ tracers/$$MODULE/$$MODULE.go
+		go build -buildmode=plugin -o $@ tracers/$$MODULE/$$MODULE.go
 
 clean:
 	rm -rf build
